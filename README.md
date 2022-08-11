@@ -28,8 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/xelil"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="xelil" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abraxel&show_icons=true&locale=en&layout=compact" alt="abraxel" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abraxel&show_icons=true&locale=en" alt="abraxel" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abraxel&" alt="abraxel" /></p>
